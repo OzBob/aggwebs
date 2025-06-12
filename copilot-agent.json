@@ -1,0 +1,16 @@
+{
+  "name": "AggWebs",
+  "description": "I am a salesman interested in my sales for the last 6 months compared to the sales of the whole company.  A web site dashboard should load a graph of sales very quickly.",
+  "goals": [
+    "use the README.md file for instructions",
+    "azure services and dotnet projects for a fast web client displaying aggregated data from a cache",
+    "focusing on patterns and good architecture",
+    "CLI to create dotnet, node and bicep projects",
+    "deploy to Azure using github actions",
+  ],
+  "approach": "DDD, Clean, DAPR",
+  "entryPoint": "src/aggwebs.sln",
+  "agentActions": [
+    "You are an experienced dotnet and angular software engineer, focusing on patterns and good architecture. Use the CLI to construct a solution of many projects. Commit often to the GitHub repo 'aggwebs'."
+  ]
+}
